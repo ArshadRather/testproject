@@ -1,1 +1,3 @@
 hi this is the first time im writing the git command repositioey
+
+i wrote again again
